@@ -1,0 +1,12 @@
+latitude,longitude,surveillance_type,surveillance,camera_type,mount,note,source
+27.93821504,-82.73064075,man_made=surveillance,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,
+27.8282177,-82.67976997,man_made=surveillance,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,
+27.83942993,-82.68361995,man_made=surveillance,surveillance=outdoor,camera:type=dome,camera:mount=pole,,
+27.83553364,-82.68133136,highway=speed_camera,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,
+27.83548442,-82.68098703,man_made=surveillance,surveillance=outdoor,camera:type=dome,camera:mount=pole,,Field survey
+27.8448564,-82.68748602,highway=speed_camera,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,
+27.84452348,-82.68778441,highway=speed_camera,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,
+27.84473248,-82.68788936,highway=speed_camera,surveillance=outdoor,camera:type=fixed,camera:mount=pole,,Photo in field
+27.855296,-82.69486,man_made=surveillance,surveillance=public,camera:type=fixed,camera:mount=pole,traffic cam,
+27.844897,-82.688125,man_made=surveillance,surveillance=outdoor,camera:type=fixed,camera:mount=pole,traffic cam,
+27.821304,-82.679737,man_made=surveillance,surveillance=outdoor,camera:type=dome,camera:mount=pole,34th and 54th NE,
